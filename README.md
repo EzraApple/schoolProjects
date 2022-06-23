@@ -13,6 +13,7 @@ Important:
 - Use of object-oriented programming and inheritance for moving/fixed rotors and reflectors
 
 **GITLET: A simpler version of git version control without remote repository capabilities**
+
 Important: 
 - Implemented command line arguments just like actual git
 - Serialized files, commit structure, and individual commits to allow for reuse of repository
